@@ -1,2 +1,3 @@
-# dhcp-starvation-defense-lab
-Security lab and Python monitor demonstrating DHCP starvation mitigation using Cisco DHCP Snooping &amp; Port Security.
+# 🛡️ DHCP Starvation & Spoofing Defense Lab
+
+Mitigating Layer-2 attacks on Cisco Catalyst switches through **DHCP Snooping** and **Dynamic ARP Inspection (DAI)**.
